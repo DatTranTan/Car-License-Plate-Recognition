@@ -10,6 +10,7 @@ imutils==0.5.3
 scikit-image==0.16.1
 
 CÁCH CHẠY FILE
+
 B1: Cài đặt các thư viện trên, sau đó mở file NhanDienBienSo.py
 
 B2: Thay đổi đường dẫn video ở dòng code thứ 58
